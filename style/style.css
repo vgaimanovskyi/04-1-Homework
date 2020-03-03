@@ -1,0 +1,38 @@
+body {
+    font-size: 18px;
+}
+
+h1 {
+    background-color: #A52A2A;
+    color: #ffffff;
+    text-align: center;
+}
+
+.sunset_photo {
+    width: 100%;
+}
+
+.italic-bold {
+    font-weight: bold;
+    font-style: italic;
+    color: #0000FF;
+}
+
+.cars {
+    text-align: center;
+}
+
+.car {
+    border: 2px dashed; 
+}
+
+.link {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
